@@ -58,3 +58,4 @@ Friday, August 25th 2023
 Read the Material on coursera about Google IT Automation
 (Using Python to Interact with OS) 
 week 1:
+- Getting Familiar with the operating system
