@@ -1,6 +1,6 @@
 # LogBook
 
-Monday, August 21st 2023
+**Monday, August 21st 2023** <br>
 
 Read the Material on coursera about Google IT Automation
 (Crash Course on Python)
@@ -15,7 +15,7 @@ Week 2:
 - Expressions and Variables
 
 
-Tuesday, August 22nd 2023
+**Tuesday, August 22nd 2023** <br>
 Read the Material on coursera about Google IT Automation
 (Crash Course on Python)
 week 2:
@@ -31,7 +31,7 @@ ILT-SS-01-BT Growth Mindset and The Power of Feedback
 - Understand how to give and receive constructive feedback
 
 
-Wednesday, August 23rd 2023
+**Wednesday, August 23rd 2023** <br>
 Read the Material on coursera about Google IT Automation
 (Crash Course on Python)
 Week 3:
@@ -39,7 +39,7 @@ Week 3:
 - Module Review
 - complete the Week 3 Graded Assessment
 
-Thursday, August 24th 2023
+**Thursday, August 24th 2023**<br>
 Read the Material on coursera about Google IT Automation
 (Crash Course on Python)
 Week 4:
@@ -49,7 +49,7 @@ Week 4:
 - Module Review
 - complete the Week 4 Graded Assessment
 
-Friday, August 25th 2023
+**Friday, August 25th 2023** <br>
 08.00-09.00 am :Weekly Consultation 1 - ML-36 with Mentor
 - get to know with friends members of Ml-36 and mentor
 - Bangkit Overview
