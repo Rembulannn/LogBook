@@ -57,5 +57,19 @@ Week 4:
 
 Read the Material on coursera about Google IT Automation
 (Using Python to Interact with OS) 
-week 1:
-- Getting Familiar with the operating system
+week 1: 
+- Gettting Familiar with the Operating System and Computer ready for python
+- setting up environment on windows
+- How to run python script
+- IDE
+- Automation Tasks through Programming
+
+  week 2:
+  - Reading and Writing Files
+  - Managing Files and Directories
+  - Reading and Writing CSV Files
+  - Qwiklabs
+  - Qwiklabs Assesment : Handling Files
+
+  week 3 & week 4 (on Saturday)
+  week 5 & week 6 (on Sunday)
