@@ -73,3 +73,58 @@ week 1:
 
   week 3 & week 4 (on Saturday)
   week 5 & week 6 (on Sunday)
+
+
+
+**Monday, August 28th 2023** <br>
+Read the Material on coursera about Google IT Automation
+(Using Python to Interact with OS) 
+Week 7:
+- Final Projects
+  Qwiklabs Assessment : Log Analysis Using Regular Expressions
+
+Read the Material on coursera about Google IT Automation
+(Introduction to GIt and Github)
+Week 1:
+- Practical Applocation Diffing Files and patch
+- Introduction to Version Control Systems
+- What is Git dan How to install git on windows
+- Using Git (Tracking Files, The basic of Git Workflow, Commit Message
+- Qwiklabs Assesment : Introduction to Git
+
+**Tuesday, August 29th 2023** <br>
+Read the Material on coursera about Google IT Automation
+(Introduction to GIt and Github)
+Week 2:
+  - Advanced Git interaction (staging area, deleting and renaming files)
+  - Undoing Things
+  - Branching and Merging
+  - Qwiklabs Assesment : Merging Branches in Git
+
+  Week 3:
+  - Introduction to Github
+  - Using a Remote Repository
+  - Solving Conflicts
+  - Qwiklabs Assesment : Introduction to Github
+
+**Wednesday, August 30th 2023** <br>
+Read the Material on coursera about Google IT Automation
+(Introduction to GIt and Github)
+  Week 4
+  - Pull Requests
+  - Code Reviews
+  - Managing Projects
+  - Qwiklabs Assesment : Pushing Local Commits to Github
+
+ 6.30 - 8.30 pm
+ ILT-ML-01-BA Introducction to Python and Git/GitHub
+ - Introduction to Python (Data Types, Functions, Conditionals, Loop, Data Structure)
+ - Introduction to Git & GitHub (Undoing Things, Branchings, etc)
+
+**Wednesday, August 30th 2023** <br>
+Do Assignment : Growth Mindset and The Power of Feedback
+- List down 3 fixed Mindset statements i have towards yourself
+- turn that into 3 statements of growth mindset
+- 5 reasons of the situatuon to understand myself better , why i develop such mindset
+- 
+
