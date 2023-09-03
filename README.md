@@ -121,10 +121,44 @@ Read the Material on coursera about Google IT Automation
  - Introduction to Python (Data Types, Functions, Conditionals, Loop, Data Structure)
  - Introduction to Git & GitHub (Undoing Things, Branchings, etc)
 
-**Wednesday, August 30th 2023** <br>
+**Thursday, August 31st 2023** <br>
 Do Assignment : Growth Mindset and The Power of Feedback
 - List down 3 fixed Mindset statements i have towards yourself
 - turn that into 3 statements of growth mindset
 - 5 reasons of the situatuon to understand myself better , why i develop such mindset
-- 
+- 3 challenges to turn my fixed mindset into growth mindset and explain my plan to overcome those challenges
+
+Read the Material on coursera about Google Data Analytics 
+(Data, Data, Everywhere)
+Week 1:
+- Get Started : Think about data in daily life and Introduction to the course
+- Transforming data into insights
+- Understanding the data ecosystem ( what is data ecosystem, Data and gut instinct, data analysis process)
+- Learning Log : How data analysts approach tasks
+- Weekly Challenge 1
+
+**Friday, September 1st 2023** <br>
+8.00:9.00 a.m : Weekly Consultation 2 - ML - 36
+- reminder from mentor about everything
+- sharing about capstone project
+- QnA 
+- Fun games
+
+Read the Material on coursera about Google Data Analytics 
+(Data, Data, Everywhere)
+Week 2:
+- Embrace data analyst skills
+- Thinking about data analytical thinking (processes of analytical thinking : curiosity, understanding context, having a technical mindset, data design, data strategy)
+- Learning Log : Reflect on skills and expectations)
+- Thinking about outcomes
+- Weekly Challenge 2
+
+Week 3:
+- follow the data life cycle (Stage of the data life cycle : Plan, Capture, Manage, Analyze, Archive, Destroy)
+- Outlining the data analysis process (six phase of data analysis : ask, prepare, process, analyze, share, act)
+- The data Analyst tool : Spreadsheet, SQL, Tableu, R Programming
+- Self-Reflection : Reviewing past concepts)
+- Weekly Challenge 3
+
+
 
