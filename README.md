@@ -161,4 +161,107 @@ Week 3:
 - Weekly Challenge 3
 
 
+**Monday, September 4th 2023** <br>
+Read the Material on coursera about Google Data Analytics 
+(Data, Data, Everywhere)
+Week 4 :
+- Mastering spreadsheet basics
+- Structured Query Language (SQL)
+- Data Visualization
+- Weekly Challenge 4
+
+ Week 5 :
+ - Data Analyst Job Opportunities
+ - The Importance of fair Business and decisions
+ - Exploring Data Analyst roles and JOb Descriptions
+ -  Weekly Challenge 5
+ -  Course challenge
+  
+ Read the material of Pre-Reading Articles Module 2 - Time Management
+
+
+ **Tuesday, September 5th 2023** <br>
+Read the Material on coursera about Google Data Analytics 
+(Ask Questions to Make Data-Driven Decisions)
+Week 1:
+- Problem-solving and effective questioning
+- Take Action with Data
+- Solve Problems with data
+- Craft effective questions (SMART : Specific, Measurable, Action-oriented, Relevant, Time-bound)
+- Weekly Challenge 1
+
+Week 2:
+- Understand the power of Data (Quantitative and Qualitative Data)
+- Follow the evidence (Data vs Metrics)
+- Connecting the data dots (Mathematical Thinking)
+- Weekly Challenge 2
+
+ILT-SS-02-BT Time Management
+6:30-8.30 pm
+- What is Time Managemnet and why is it important
+- factors why it is difficult to manage time
+- 4 Quadrants of Time Management
+- Disciplined in Real Life
+- Busy vs Productive
+- Monotasking vs Multitasking
+
+
+ **Wednesday, September 6th 2023** <br>
+Read the Material on coursera about Google Data Analytics 
+(Ask Questions to Make Data-Driven Decisions)
+Week 3:
+- Working with spreadsheets
+- Formulas in spreadsheets
+- Functions in spreadsheets
+- Save time with structured thinking
+- Weekly Challenge 3
+
+Week 4:
+- Balance team and stakeholder needs
+- Tips for Effective communication (Communication is key)
+- Amazing Teamwork
+- Weekly Challenge 4
+- Course Challenge
+
+ **Thursday, September 7th 2023** <br>
+Read the Material on coursera about Google Data Analytics 
+(Prepare Data for Exploration)
+Week 1:
+- Data Exploration
+- Collecting Data
+- Differentiate between data formats and structures
+- Explore data types, fields, and values
+- Weekly Challenge 1
+
+Week 2:
+- Biased and Unbiased data
+- Explore data credibility
+- Data ethics and privacy
+- Understanding open data
+- Weekly Challenge 2
+
+ **Friday, September 7th 2023** <br>
+8:00-9:00 am Weekly Consultation 3 ML-36
+- Next Week Milestone (reminder from mentor about everything)
+- QnA
+- Sharing
+  
+Read the Material on coursera about Google Data Analytics 
+(Prepare Data for Exploration)
+Week 3:
+- Working with database (Primary and Foreign Keys)
+- Managing data with metadata
+- Accessing different data sources (Importing data from spreadsheet and database, Exploring public datasets)
+- Sorting and filtering (Hands-On Activity)
+- Working with large datasets in SQL (Using BigQuery)
+- Weekly Challenge 3
+
+Week 4:
+- Effectively organize data (All about file naming)
+- Securing data
+-  Weekly Challenge 4
+
+Week 5:
+- Engaging in the data community
+- Course Challenge
 
