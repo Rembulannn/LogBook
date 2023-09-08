@@ -240,7 +240,7 @@ Week 2:
 - Understanding open data
 - Weekly Challenge 2
 
- **Friday, September 7th 2023** <br>
+ **Friday, September 8th 2023** <br>
 8:00-9:00 am Weekly Consultation 3 ML-36
 - Next Week Milestone (reminder from mentor about everything)
 - QnA
